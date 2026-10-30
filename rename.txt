@@ -2,4 +2,4 @@ Card abilites:
 Dominate: Steals a card from the other side of the board
 Rally: Doubles the power of each card of the same rally ability
 Medic: Let's you draw a card from the dicard pile
-Scorch: Destroys the card(s) with the highest points on the same row
+Scorch: Destroys the card(s) with the highest points on the same rows
